@@ -1,0 +1,40 @@
+{
+	"name": "ravage84/cakephp-app-version",
+	"description": "App Version Utility for CakePHP 2.x Applications",
+	"type": "cakephp-plugin",
+	"keywords":[
+		"cakephp",
+		"app",
+		"version"
+	],
+	"homepage": "https://github.com/ravage84/cakephp-app-version",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Marc Würth",
+			"homepage": "https://github.com/ravage84/",
+			"email": "ravage@bluewin.ch",
+			"role": "Lead developer"
+		},
+		{
+			"name": "Other contributors",
+			"homepage": "https://github.com/ravage84/cakephp-app-version/graphs/contributors",
+			"role": "Contributors"
+		}
+	],
+	"support": {
+		"source": "https://github.com/ravage84/cakephp-app-version",
+		"issues": "https://github.com/ravage84/cakephp-app-version/issues",
+		"wiki":"https://github.com/ravage84/cakephp-app-version/wiki"
+	},
+	"require": {
+		"php": ">=5.3.0",
+		"composer/installers": "^1.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "3.7.*"
+	},
+	"extra": {
+		"installer-name": "AppVersion"
+	}
+}
