@@ -36,5 +36,10 @@
 	},
 	"extra": {
 		"installer-name": "AppVersion"
+	},
+	"autoload": {
+		"psr-4": {
+			"OrcaServices\\": "Lib/"
+		}
 	}
 }
