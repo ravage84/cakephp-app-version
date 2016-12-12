@@ -1,4 +1,4 @@
-# YourPluginName
+# CakePHP App Version
 
 [![Travis-CI Build Status](https://travis-ci.org/your-name/plugin-name.png)](https://travis-ci.org/your-name/plugin-name)
 [![Coverage Status](https://img.shields.io/coveralls/your-name/plugin-name.svg)](https://coveralls.io/r/your-name/plugin-name?branch=master)
@@ -6,7 +6,7 @@
 [![Total Downloads](https://poser.pugx.org/your-name/plugin-name/d/total.png)](https://packagist.org/packages/your-name/plugin-name)
 [![Latest Stable Version](https://poser.pugx.org/your-name/plugin-name/v/stable.png)](https://packagist.org/packages/your-name/plugin-name)
 
-Intro Text
+App Version Utility for CakePHP 2.x Applications
 
 ## Installation
 
@@ -16,6 +16,11 @@ Intro Text
 - CakePHP 2.x
 
 ### Installation via composer
+
+
+```` bash
+composer require ravage84/cakephp-app-version
+````
 
 ### Manual installation
 
