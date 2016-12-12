@@ -11,4 +11,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.1.0](https://github.com/ravage84/cakephp-app-version/releases/tag/0.1.0) - 2016-12-12
 ### Added
-- Initial commit
+- Initial functionality
