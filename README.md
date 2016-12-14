@@ -47,6 +47,11 @@ See [CHANGELOG.md](CHANGELOG.md)
 ## TODOs
 
 - Unit Tests
+- Scrutinizer CI integration
+- Travis CI integration
+- Use flysystem for filesystem access
+- Set up documentation
+
 
 ## License
 
